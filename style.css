@@ -149,11 +149,11 @@ overwrite bootstrap default margin-left, because the <label> doesn't contain the
   }
 
   .section {
-    background-color: #417cb9 !important;
+    background-color: #333 !important;
     color: #fff;
     margin-top: 25PX;
   }
-
-  .navbar {
+.navbar-inverse {
+    background-color: #417cb9 !important;
     border-radius: 0px;
 }

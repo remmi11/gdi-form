@@ -153,3 +153,7 @@ overwrite bootstrap default margin-left, because the <label> doesn't contain the
     color: #fff;
     margin-top: 25PX;
   }
+
+  .navbar {
+    border-radius: 0px;
+}
